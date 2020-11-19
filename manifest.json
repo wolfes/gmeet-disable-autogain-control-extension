@@ -10,7 +10,8 @@
             "https://www.facebook.com/*",
             "https://voice.google.com/*",
             "https://www.messenger.com/*",
-            "https://w2g.tv/*"
+            "https://w2g.tv/*",
+            "https://gather.town/*"
         ],
         "js": ["installDisableAutogain.js"],
         "run_at": "document_start",
